@@ -1,19 +1,286 @@
 .banner-principal-decorativo
   &-1
-    animation: float1 3.5s ease-in-out infinite alternate
+    animation: float1 5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 15%
+    left: 5%
+    width: 14%
   &-2
-    animation: float1 2.8s ease-in-out infinite alternate
+    animation: rotation 2s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 45%
+    right: 10%
+    width: 12%
+  &-3
+    animation: enlarge 2s ease-in-out infinite alternate
+    position: absolute
+    bottom: 1%
+    right: 41%
 
 
 @keyframes float1
   0%
-    transform: translateY(20px)
-
+    transform: translateX(30px)
   100%
-    transform: translateY(0px)
+    transform: translateX(0px)
+  
+@keyframes enlarge
+  0%
+    transform: scale(1)
+  50%
+    transform: scale(1.08)
+  100%
+    transform: scale(1)
+  
+@keyframes rotation
+  0%
+    transform: rotate(0deg)
+  25%
+    transform: rotate(-45deg)
+  50%
+    transform: rotate(0deg)
+  75%
+    transform: rotate(45deg)
+  100%
+    transform: rotate(0deg)
+
+.banner-interno__fondo
+  background-image: url("../assets/curso/portada/img01.png") !important
+
+.BGIMG01
+  background-image: url("../assets/curso/fondos/img01.png")
+
+.BGIMG02
+  background-image: url("../assets/curso/fondos/img02.png")
+
+.tarjeta.color-primario--borde
+  background-image: url("../assets/curso/fondos/img03.png")
+
+.BGIMG01, .BGIMG02, .tarjeta.color-primario--borde
+  background-size: cover 
+  background-repeat: no-repeat
+  background-position: center
+
+.BGM01, .BGM02, .BGM14
+  margin-inline: -3rem !important
+  @media (max-width: $bp-max-sm)
+    margin-inline: -1.5rem !important
+
+.BGM01
+  background: linear-gradient(to bottom, #EFFAF0, #EFFAF0, #FFF)
+
+.BGM02
+  background-color: #EFF8F0
+
+.BGR03
+  background-color: #DCF6FF
+
+.BGR04
+  background-color: #E2F2F7
+
+.BGR05
+  background-color: #B1E2F3
+
+.arrow-right.BG06
+  background-color: #F2F7FB
+  &::after
+    background-color: #F2F7FB
+
+.arrow-right.BG07
+  background-color: #E3F2E4
+  &::after
+    background-color: #E3F2E4
+
+.arrow-right.BG08
+  background-color: #BBD2F0
+  &::after
+    background-color: #BBD2F0
+
+.arrow-right.BG09
+  background-color: #D5EBF3
+  &::after
+    background-color: #D5EBF3
+
+.arrow-right.BG10
+  background-color: #92DF98
+  &::after
+    background-color: #92DF98
+  
+.BGR11
+  background-color: #E7EAEB
+
+.BGR12
+  background-color: #F2F7FC
+
+.arrow-down.BGR13
+  background-color: #72C3E0
+  
+.BGM14
+  background-color: #EAF3EB
+
+.BG15
+  background-color: #CBE1CD
+
+.BG16
+  background-color: #D9E9D9
+
+.BG17
+  background-color: #A0DDA5
+
+.BGR18
+  background-color: #F0F0F0
+
+.BGR18.acordion__activo
+  background-color: #F6FFF7
+
+.acordion__accion__btn--a
+  background-color: #3F7FD5
+
+.tabs-a__tab
+  background-color: #E5E5E5
+
+.bloque-texto-a.color-primario
+  background-color: #EEF6F8
+
+.BGIMG01, .BGIMG02, .BGR03, .BGR04, .BGR05, .BGR11, .BGR12, .BGR18
+  border-radius: 10px
+
+.BGR13
+  border-radius: 40px 40px 0 40px
+
+.text-secundario
+  color: $color-secundario
+
+.tarjeta-numerada.color-acento-botones
+  border-color: #4484DA
+
+.tarjeta-numerada.color-acento-botones .tarjeta-numerada__numero
+  background-color: #4484DA
+
+.linea-tiempo-e__item__header
+  width: 10% !important
+ 
+.linea-tiempo-e:before
+  left: 10%
+
+.lista-ul--color li, .ol.lista-ol--cuadro li, .lista-ol--cuadro li
+  display: flex
+
+.tarjeta--boton
+  &:hover
+    transform: scale(1.08)
+  
+.bottomCircle
+  position: relative
+  & > *
+    position: relative
+  &::before
+    content: ""
+    position: absolute
+    top: 15%
+    left: 15%
+    transform: translate(-15%,-15%)
+    width: 95px
+    height: 95px
+    background-color: #59BEE2
+    border-radius: 999px
+    @media (max-width: $bp-max-lg)
+      width: 105px
+      height: 105px
+    @media (max-width: $bp-max-xs)
+      width: 85px
+      height: 85px
+  
+.tarjeta--boton.color-primario:hover
+  .bottomCircle
+    &::before
+      background-color: #288640
+
+.linea-tiempo-c__header__btn--left, .linea-tiempo-c__header__btn--right
+  background-color: #4484DA
+
+.linea-tiempo-c__header__btn--left i, .linea-tiempo-c__header__btn--right i, .acordion__accion__btn--a i
+  color: $white
+
+.img-01
+  position: absolute
+  right: 50px
+  @media (max-width: $bp-max-lg)
+    right: 1px
+  
+.img-02
+  position: absolute
+  left: 140px
+  @media (max-width: $bp-max-lg)
+    left: 90px
+  @media (max-width: $bp-max-md)
+    position: relative
+    left: initial
+
+.hg-01
+  height: 242px
+  @media (max-width: $bp-max-xl)
+    height: 240px
+  @media (max-width: $bp-max-lg)
+    height: 251px
+  @media (max-width: $bp-max-md)
+    height: 282px
+  @media (max-width: $bp-max-sm)
+    height: initial
+  
+.hg-02
+  width: 650px
+  height: 100px
+  @media (max-width: $bp-max-md)
+    width: 600px
+  @media (max-width: $bp-max-sm)
+    width: 480px
+  
+.hg-03
+  height: 315px
+  @media (max-width: $bp-max-xl)
+    height: 387px
+  @media (max-width: $bp-max-lg)
+    height: 315px
+  @media (max-width: $bp-max-md)
+    height: 411px
+  @media (max-width: $bp-max-sm)
+    height: initial
+
+
+.arrow-right
+  float: left
+  position: relative
+  &::after
+    position: absolute
+    top: 20px
+    right: -4%
+    width: 8%
+    height: 60%
+    transform: rotate(141deg) skewX(-10deg) skewY(-20deg)
+    content: ''
+    @media (max-width: $bp-max-sm)
+      top: 21px
+      right: -5%
+      width: 10%
+    @media (max-width: $bp-max-xs)
+      position: relative
+      width: 0%
+    
+.arrow-down
+  float: left
+  position: relative
+  &::after
+    position: absolute
+    width: 0
+    height: 0
+    right: 0
+    border-right: 20px solid #72C3E0
+    border-top: 20px solid #72C3E0
+    border-left: 20px solid transparent
+    border-bottom: 20px solid transparent
+    content: ''
+
+    
+    
+

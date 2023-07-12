@@ -7,15 +7,15 @@
       .col-6.col-md-4.col-lg-3.mb-4.mb-md-0
         .tarjeta.h-100.d-flex.align-items-center.p-4
           figure
-            img(src="@/assets/template/falso-verdadero.svg", alt="Texto que describa la imagen")
+            img(src="@/assets/template/falso_verdadero.svg", alt="Imagen decorativa")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Nombre de la actividad
-        p.mb-4 #[b Objetivo] 
+          h2 Normativa sobre entornos saludables
+        p.mb-4 Comprender y diferenciar los conceptos y normativa sobre entornos saludables con el fin de tener claridad en su aplicación para el desarrollo humano y la calidad de vida.
         .tarjeta.actividad.p-3
-          .row.justify-content-around.align-items-center            
+          .row.justify-content-around.align-items-center
             .col-sm.mb-3.mb-sm-0
-              p.fw-bold.mb-0 Tipo de actividad
+              p.fw-bold.mb-0 Falso / verdadero
             .col-auto
               a.boton.boton--b(:href="obtenerLink('/actividades/actividad.html')" target="_blank")
                 span Realizar
