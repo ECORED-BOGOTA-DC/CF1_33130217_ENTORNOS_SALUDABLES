@@ -7,7 +7,7 @@
         span 1
       h1 Políticas favorecedoras de los entornos saludables
     
-    p.mb-5 Antes de hablar de políticas, es importante partir del concepto de salud, el cual es entendido como el bienestar psicosocial de un individuo, el cual es dependiente de los determinantes de sus entornos, desde los ámbitos sociales, económicos, culturales ambientales y políticos.
+    p.mb-5 Antes de hablar de políticas, es importante partir del concepto de salud, el cual es entendido como el bienestar psicosocial de un individuo, el cual es dependiente de los determinantes de sus entornos, desde los ámbitos sociales, económicos, culturales, ambientales y políticos.
 
     .row.justify-content-center.mb-5 
       .col-lg-10
@@ -24,7 +24,7 @@
         img(src='@/assets/curso/tema1/img01.svg' alt="Imagen decorativa")
       .col-lg-8
         p Entonces, las políticas públicas saludables apuntan a atender las necesidades de las comunidades para la toma de decisiones que fomentan o inhiben ciertas conductas en un grupo de personas.
-        p.mb-0 En una política pública saludable todas las instituciones de los sectores y sus actores deben confluir en su cumplimiento para llevar a cabo sus objetivos y estar en concordancia con las decisiones del estado.     
+        p.mb-0 En una política pública saludable, todas las instituciones de los sectores y sus actores deben confluir en su cumplimiento para llevar a cabo sus objetivos y estar en concordancia con las decisiones del estado.     
 
     p.mb-0 En términos generales con las políticas se busca incidir en:
 
@@ -66,7 +66,7 @@
       .col-lg-5.col-10.p-4.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema1/img02.svg' alt="Imagen decorativa")
 
-    p Finalmente, es importante saber que las políticas buscan influenciar las condiciones de vida de una comunidad cuyo principal objetivo es que se creen entornos saludables que promuevan el bienestar y faciliten las condiciones para la preservación de la salud de una comunidad.
+    p Finalmente, es importante saber que las políticas buscan influenciar las condiciones de vida de una comunidad, cuyo principal objetivo es que se creen entornos saludables que promuevan el bienestar y faciliten las condiciones para la preservación de la salud de una comunidad.
 
     separador
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -314,12 +314,12 @@
       .col-lg-3.col-6.mb-lg-0.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/tema1/img22.png' alt="Imagen decorativa")
       .col-lg-9
-        p.mb-0 En Colombia desde el enfoque de los determinantes de la salud, siendo esta un derecho fundamental en conexión con la vida y que está directamente vinculado al desarrollo social, se evidencia que se requieren intereses articulados dependientes del individuo, su familia, la comunidad y el estado para lograr la salud.
+        p.mb-0 En Colombia, desde el enfoque de los determinantes de la salud, siendo esta un derecho fundamental en conexión con la vida y que está directamente vinculado al desarrollo social, se evidencia que se requieren intereses articulados dependientes del individuo, su familia, la comunidad y el estado para lograr la salud.
 
     .row.justify-content-center.mb-5
       .col-lg-10
         .titulo-sexto.color-primario(data-aos="fade-right")
-          h5 Figura 1
+          h5 Figura 1.
           span Marco conceptual de los determinantes sociales de la salud
         figure(data-aos="zoom-in")
           img(src='@/assets/curso/tema1/img23.svg' alt="Imagen decorativa")
@@ -354,7 +354,7 @@
             .col-1
               .h2.mb-0 1
             .col
-              p.mb-0 Debe conformarse un grupo de actores implicados en la en su dinámica.
+              p.mb-0 Debe conformarse un grupo de actores implicados en su dinámica.
         .arrow-right.BG07.hg-02.p-3(data-aos="fade-right")
           .row.justify-content-center.align-items-center
             .col-1
@@ -473,7 +473,7 @@
     .row.justify-content-center.mb-5
       .col-lg-6
         .titulo-sexto.color-primario(data-aos="fade-right" alt="Texto alternativo tabla")
-          h5 Tabla 1
+          h5 Tabla 1.
           span Políticas públicas
         table(data-aos="zoom-in")
           thead
@@ -533,7 +533,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8.order-lg-1.order-2(data-aos="fade-right")
         p En virtud de que estas políticas ya están aprobadas y en marcha, los departamentos y municipios las adoptan y hacen sus propios ejercicios internos para finalmente operacionalizar todas sus acciones.
-        p.mb-0 Finalizando en este contexto vemos que el país avanza hacia uno de las metas propuestas sobre los objetivos del milenio para el año 2030; sin embargo, en la ejecución nuestro sistema y red es insuficiente para dar el abordaje a todas estas políticas y retos del APS; se requiere reestructurar de manera sustancial la prestación de servicios y no trabajar de manera aislada del resto de entes, para lograr un impacto positivo en la salud de los colombianos.
+        p.mb-0 Finalizando en este contexto vemos que el país avanza hacia una de las metas propuestas sobre los objetivos del milenio para el año 2030; sin embargo, en la ejecución nuestro sistema y red es insuficiente para dar el abordaje a todas estas políticas y retos del APS; se requiere reestructurar de manera sustancial la prestación de servicios y no trabajar de manera aislada del resto de entes, para lograr un impacto positivo en la salud de los colombianos.
       .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema1/img35.png' alt="Imagen decorativa")
   

@@ -2,7 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p.mb-5 Con el objetivo de lograr un desarrollo sostenible, es necesario implementar acciones en los diferentes entornos, con el fin de lograr procesos articulados que permitan una participación activa de todos los actores sociales, para que de esta manera se generen proyectos que mejoren día a día y con esto suplir las necesidades que se detecten en la comunidad y que propendan por un mejoramiento de su calidad de vida. Por esta razón este componente formativo profundiza en diversos temas necesarios para cumplir con este objetivo y que se esquematizan a continuación:
+    p.mb-5 A través del siguiente mapa, podrá ver la conceptualización abordada en este componente formativo, la cual resume de manera puntual lo visto en él:
 
     .row.justify-content-center
       .col-lg-10.mb-5

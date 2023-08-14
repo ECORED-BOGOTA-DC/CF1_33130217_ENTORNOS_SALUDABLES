@@ -3,7 +3,7 @@ export default {
     componenteFormativo:
       'Marco normativo y lineamientos de entornos saludables',
     descripcionCurso:
-      'Uno de los Objetivos de Desarrollo Sostenible, es apuntar al mejoramiento de los entornos, integrando el sector de la salud, el cual fomenta entornos saludables de tal manera que, en los territorios se implementen acciones que influyan sobre determinantes sociales de la salud, con proyectos cooperativos y participativos, de ahí la importancia de capacitar a profesionales del sector salud.',
+      'Uno de los Objetivos de Desarrollo Sostenible, es apuntar al mejoramiento de los entornos, integrando el sector de la salud, el cual fomenta entornos saludables de tal manera que, en los territorios, se implementen acciones que influyan sobre determinantes sociales de la salud, con proyectos cooperativos y participativos, de ahí la importancia de capacitar a profesionales del sector salud.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -136,7 +136,7 @@ export default {
     {
       termino: 'Entorno comunitario',
       significado:
-        'en este entorno ubicar las políticas sociales actuales: La política social del Gobierno Nacional está enfocada en la reducción de la pobreza y la promoción de la equidad. Primera infancia.',
+        'en este entorno ubicar las políticas sociales actuales: la política social del Gobierno Nacional está enfocada en la reducción de la pobreza y la promoción de la equidad.',
     },
     {
       termino: 'Entorno hogar',
@@ -179,9 +179,10 @@ export default {
         'https://www.minsalud.gov.co/proteccionsocial/promocion-social/Paginas/genero.aspx',
     },
     {
-      referencia: 'PNUD. (2022). <em>Transversalización de género.</em>',
+      referencia:
+        'PNUD. (2022). <em>Guía para la transversalización de género.</em>',
       link:
-        'https://www.latinamerica.undp.org/content/rblac/es/home/ourwork/democratic-governance/nuestro-enfoque.html#:~:text=El%20PNUD%20tiene%20un%20enfoque%20doble%20de%20transversalizaci%C3%B3n,implementaci%C3%B3n%20y%20evaluaci%C3%B3n%20de%20pol%C3%ADticas%20p%C3%BAblicas%20y%20programas.',
+        'https://www.undp.org/es/chile/publications/gu%C3%ADa-para-la-transversalizaci%C3%B3n-de-g%C3%A9nero',
     },
     {
       referencia:
@@ -230,11 +231,6 @@ export default {
           cargo: 'Responsable Equipo Desarrollo Curricular',
           centro:
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
-        },
-        {
-          nombre: 'Sandra Patricia Hoyos Sepúlveda',
-          cargo: 'Corrección de estilo',
-          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
         {
           nombre: 'Andrés Felipe Velandia Espitia',
@@ -290,6 +286,12 @@ export default {
         },
         {
           nombre: 'Lina Marcela Pérez Manchego',
+          cargo: 'Validación de recursos educativos digitales',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Leyson Fabián Castaño Pérez',
           cargo: 'Validación de recursos educativos digitales',
           centro:
             'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',

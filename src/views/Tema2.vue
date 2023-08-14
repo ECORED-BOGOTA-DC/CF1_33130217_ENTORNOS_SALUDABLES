@@ -16,7 +16,7 @@
       
       figure(data-aos="zoom-in")
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/etvvoE62qF0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
 
     p.mb-5 Para mayor información, lo invitamos a consultar el documento institucional aprobado en el año 2016:
@@ -68,7 +68,7 @@
           .col-5
             img(src='@/assets/curso/tema2/img04.png', alt='Imagen decorativa') 
         .h4.text-center Calidad de vida
-        p.text-center.mb-0 habla sobre la posibilidad de acceso de los sujetos y comunidades a los bienes culturales, económicos, su entorno ecológico ambiental, los riesgos a que se encuentran su salud (física, mental y social).
+        p.text-center.mb-0 Habla sobre la posibilidad de acceso de los sujetos y comunidades a los bienes culturales, económicos, su entorno ecológico, ambiental, los riesgos a que se encuentran su salud (física, mental y social).
       .col-md.tarjeta.BG17.p-5(data-aos="fade-left")
         .row.justify-content-center.mb-4
           .col-5
@@ -121,7 +121,7 @@
       .tarjeta.color-primario--borde.p-4(titulo="Género")
         .row.justify-content-center.align-items-center
           .col-lg-8.order-lg-1.order-2
-            p.mb-0 Se entiende por enfoque de género el conjunto de características sociales, culturales, políticas, jurídicas y económicas asignadas socialmente en función del sexo de nacimiento (PNUD, 2022). La categoría de género permite evidenciar que los roles, identidades y valores que son atribuidos a hombres y mujeres e internalizados mediante los procesos de socialización son una construcción histórica y cultural, es decir, que pueden variar de una sociedad a otra y de una época a otra” (MSPS, 2022).
+            p.mb-0 Se entiende por enfoque de género el conjunto de características sociales, culturales, políticas, jurídicas y económicas asignadas socialmente en función del sexo de nacimiento (PNUD, 2022). La categoría de género permite evidenciar que los roles, identidades y valores que son atribuidos a hombres y mujeres e internalizados mediante los procesos de socialización son una construcción histórica y cultural, es decir, que pueden variar de una sociedad a otra y de una época a otra (MSPS, 2022).
           .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
             img(src='@/assets/curso/tema2/img09.svg' alt="Imagen decorativa")
       .tarjeta.color-primario--borde.p-4(titulo="Determinantes sociales")
@@ -223,7 +223,7 @@
               li 
                 .lista-ol--cuadro__vineta(style="color: #12263F; font-weight: 900")
                   span 1
-                | Implementación y fortalecimiento de estrategias de promoción de espacios físicos, sociales y ambientales seguros, incluyentes, equitativos y sostenibles.
+                | Implementación y fortalecimiento de estrategias de promoción de espacios físicos, sociales y ambientales, seguros, incluyentes, equitativos y sostenibles.
               li 
                 .lista-ol--cuadro__vineta(style="color: #12263F; font-weight: 900")
                   span 2
@@ -291,7 +291,7 @@
               li 
                 .lista-ol--cuadro__vineta(style="color: #12263F; font-weight: 900")
                   span 1
-                | Articulación con sectores y actores públicos, privados, académicos, ONGs y comunitarios para la difusión, gestión y/o construcción del conocimiento.
+                | Articulación con sectores y actores públicos, privados, académicos, ONG y comunitarios para la difusión, gestión y/o construcción del conocimiento.
               li 
                 .lista-ol--cuadro__vineta(style="color: #12263F; font-weight: 900")
                   span 2

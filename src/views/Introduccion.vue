@@ -10,7 +10,7 @@
       h1 Introducción
     
     .BGM01.pt-4.px-md-5.px-4.mb-4
-      .row.justify-content-center.mb-5
+      .row.justify-content-center.align-items-center.mb-5
         .col-lg-1.col-2(data-aos="fade-right")
           img(src='@/assets/curso/intro/img01.svg' alt="Imagen decorativa")
         .col(data-aos="fade-left")
@@ -18,7 +18,7 @@
       
       figure(data-aos="zoom-in")
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/xyq1mmIb-X0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
 </template>
 
