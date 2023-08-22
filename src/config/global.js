@@ -169,7 +169,7 @@ export default {
     },
     {
       referencia:
-        'MinSalud. (2016). <em>Lineamientos nacionales de entornos.</em>',
+        'MinSalud. (2016). <em>Lineamientos Nacionales de entornos.</em>',
       link:
         'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/SA/lineamientos-entornos-nacionales-2016.pdf',
     },
@@ -232,12 +232,6 @@ export default {
           centro:
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
-        {
-          nombre: 'Andrés Felipe Velandia Espitia',
-          cargo: 'Metodología para la formación virtual',
-          centro:
-            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
-        },
       ],
     },
     {
@@ -281,12 +275,6 @@ export default {
         {
           nombre: 'Carolina Coca Salazar',
           cargo: 'Evaluación de contenidos inclusivos y accesibles',
-          centro:
-            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
-        },
-        {
-          nombre: 'Lina Marcela Pérez Manchego',
-          cargo: 'Validación de recursos educativos digitales',
           centro:
             'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
