@@ -3,7 +3,7 @@ export default {
     componenteFormativo:
       'Marco normativo y lineamientos de entornos saludables',
     descripcionCurso:
-      'Uno de los Objetivos de Desarrollo Sostenible, es apuntar al mejoramiento de los entornos, integrando el sector de la salud, el cual fomenta entornos saludables de tal manera que, en los territorios, se implementen acciones que influyan sobre determinantes sociales de la salud, con proyectos cooperativos y participativos, de ahí la importancia de capacitar a profesionales del sector salud.',
+      'Uno de los Objetivos de Desarrollo Sostenible (ODS), es apuntar al mejoramiento de los entornos, integrando el sector de la salud, el cual fomenta entornos saludables de tal manera que, en los territorios, se implementen acciones que influyan sobre determinantes sociales de la salud, con proyectos cooperativos y participativos, de ahí la importancia de capacitar a profesionales del sector salud.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
