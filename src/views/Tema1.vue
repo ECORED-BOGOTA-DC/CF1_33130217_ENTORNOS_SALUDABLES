@@ -322,7 +322,7 @@
           h5 Figura 1.
           span Marco conceptual de los determinantes sociales de la salud
         figure(data-aos="zoom-in")
-          img(src='@/assets/curso/tema1/img23.svg' alt="Imagen decorativa")
+          img(src='@/assets/curso/tema1/img23.svg' alt="Describe los conceptos de los determinantes en salud, como lo es las determinantes estructurales de las desigualdades en salud y las determinantes intermedias de la salud y sus elementos. Teniendo en cuenta le contexto socioeconómico y político, gobernanza, políticas macroeconómicas, políticas sociales: mercado de trabajo, de vivienda, tierra, Políticas publicas; salud y cultura y valores sociales.")
           figcaption Fuente: <a style="font-weight: 400">Organización Mundial de la Salud 2010.</a>
 
     p.mb-5 Dar garantía del bienestar biopsicosocial desde un enfoque integral, es el eje central de todos los procesos en salud, por esto el estado ha desarrollado:
@@ -449,7 +449,7 @@
 
     .row.justify-content-center.mb-5
       .col-lg-10
-        table(data-aos="zoom-in")         
+        table(data-aos="zoom-in" alt="Se muestran los diferentes equipos que se utilizan para la separaci{on de resíduos y los elementos a utilizar.")         
           thead
             tr
               th(style="background-color: #509B63; font-size: 18px;").text-center.text-white Política pública
@@ -475,7 +475,7 @@
         .titulo-sexto.color-primario(data-aos="fade-right" alt="Texto alternativo tabla")
           h5 Tabla 1.
           span Políticas públicas
-        table(data-aos="zoom-in")
+        table(data-aos="zoom-in" alt="Tabla 1. Políticas públicas que se han establecido por parte del estado para el mejoramiento y calidad de la salud de la ciudadanía.")
           thead
             tr
               th(style="background-color: #509B63; width: 17%; font-size: 18px;").text-center.text-white Ítem

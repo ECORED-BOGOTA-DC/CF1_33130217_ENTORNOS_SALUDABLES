@@ -7,7 +7,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="Texto que describa la imagen según CFA")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="La síntesis resume los temas abordados en el componente formativo, para este caso se profundizó en temas muy relevantes como las políticas favorecedoras para el mejoramiento continuo de calidad de vida, los diversos conceptos de entorno saludable, sus características, marco conceptual entre otros.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono
