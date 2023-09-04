@@ -97,7 +97,7 @@
         .arrow-down.BGR13.px-5.py-3
           .h4.me-5.mb-0 Enfoques
 
-    p.mb-5 Los enfoques planteados dentro del Lineamientos Nacional de Entornos Saludables LNES, son de: derechos, diferencial, curso de vida, género, determinantes sociales, pertinencia étnica y para conocer lo que significa cada uno, a continuación, podrá hacerlo: 
+    p.mb-5 Los enfoques planteados dentro de los Lineamientos Nacional de Entornos Saludables LNES, son de: derechos, diferencial, curso de vida, género, determinantes sociales, pertinencia étnica y para conocer lo que significa cada uno, a continuación, podrá hacerlo: 
 
     TabsA.color-acento-botones.mb-5
       .tarjeta.color-primario--borde.p-4(titulo="De derecho")

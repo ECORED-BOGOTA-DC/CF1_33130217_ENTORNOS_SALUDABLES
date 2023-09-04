@@ -77,7 +77,7 @@
         p A medida que pasa el tiempo las políticas a nivel internacional se han ido modificando. En un inicio estuvieron limitadas y se relacionaban con motivos de la religión, de la economía o en algunos casos de los reinos o gobiernos. Pero en el siglo XX y lo corrido del siglo XXI, los organismos internacionales, por medio de sus organizaciones, hicieron ampliación de sus fines por lo que estimaron sus propias directrices. Tiempo después se creó la Organización Mundial de la Salud - OMS (7 de abril de 1948), permitiendo realizar acuerdos internacionales sobre la forma de tratar los problemas más relevantes de salud de los diferentes continentes.
         p.mb-0 Se pueden identificar entonces unos momentos históricos que marcaron la concepción de la salud y la forma de abordarla, veámoslos:
       .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-        img(src='@/assets/curso/tema1/img03.svg' alt="Imagen decorativa")
+        img(src='@/assets/curso/tema1/img03.png' alt="Imagen decorativa")
     
     .BGM02.py-4.px-md-5.px-4.mb-4
       LineaTiempoE.color-secundario
@@ -398,7 +398,7 @@
             img(src='@/assets/curso/tema1/img27.png' alt="Imagen decorativa")
         .row.justify-content-center(titulo="Ley 1438 de 2011")
           .col-lg-6.order-lg-1.order-2
-            p.mb-0 En su artículo 6, reza que "el Ministerio de la Protección Social elaborará un Plan Decenal de Salud Pública a través de un proceso amplio de participación social y en el marco de la estrategia de atención primaria en salud, en el cual deben confluir las políticas sectoriales para mejorar el estado de salud de la población, incluyendo la salud mental, garantizando que el proceso de participación social sea eficaz, mediante la promoción de la capacitación de la ciudadanía y de las organizaciones sociales.
+            p.mb-0 En su artículo 6, reza que "el Ministerio de la Protección Social elaborará un Plan Decenal de Salud Pública a través de un proceso amplio de participación social y en el marco de la estrategia de atención primaria en salud, en el cual deben confluir las políticas sectoriales para mejorar el estado de salud de la población, incluyendo la salud mental, garantizando que el proceso de participación social sea eficaz, mediante la promoción de la capacitación de la ciudadanía y de las organizaciones sociales".
           .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
             img(src='@/assets/curso/tema1/img28.png' alt="Imagen decorativa")
         .row.justify-content-center(titulo="PDSP 2012-2021")
